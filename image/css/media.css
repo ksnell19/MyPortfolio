@@ -13,6 +13,30 @@
     text-align: left; }
   .logo_img a {
     background: transparent url('../img/logo.png') no-repeat center center; }
+  .toggle-mnu {
+    right: 22px;
+    top: 3px;}
+  .small_screen {
+    padding: 20px 10px;
+    text-align: center; }
+
+    #about .textOne {
+      text-align: left;
+    }
+    #about .textTwo {
+      text-align: left;
+    }
+    #about .img-responsive {
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .isotope_items row {
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+    }
   footer .logo a {
       color: #588792; }
   .head_bg .content_head .scroll_bottom {
@@ -58,6 +82,14 @@
 
   #about p {
     text-align: center;
+  }
+
+  #about .textOne {
+    text-align: left;
+  }
+
+  #about .textTwo {
+    text-align: left;
   }
 
   #about .img-responsive {
